@@ -1,0 +1,2 @@
+MW_CUDA_ARCH=350
+MODEL=loop_loop
